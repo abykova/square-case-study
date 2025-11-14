@@ -1,0 +1,17 @@
+square-securepay-case-study/
+├─ README.md
+├─ docs/
+│  ├─ 00-context.md
+│  ├─ 01-glossary.md              # Шаг 1: определения
+│  ├─ 02-assets-and-goals.md      # Шаг 2: активы и цели безопасности
+│  ├─ 03-artifacts.md             # Шаг 3: вспомогательные артефакты
+│  ├─ 04-risk-assessment.md       # Шаг 4: риск-оценка
+│  ├─ 05-elicitation-techniques.md# Шаг 5: техники извлечения
+│  ├─ 06-elicited-requirements.md # Шаг 6: извлечённые требования
+│  ├─ 07-categorization.md        # Шаг 7: категоризация
+│  ├─ 08-prioritization.md        # Шаг 8: приоритизация
+│  ├─ 09-inspection.md            # Шаг 9: инспекция
+│  └─ 10-traceability-matrix.md   # Дополнительно: трассируемость
+└─ diagrams/
+   ├─ context-diagram.png
+   └─ dfd-level1.png
